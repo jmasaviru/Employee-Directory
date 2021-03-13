@@ -2,7 +2,7 @@
 
 A [Employee Directory](https://jmasaviru.github.io/Employee-Directory/) that allows the user (perhaps an employee or manager) to view the whole directory giving quick access to non-sensitive employee information. The user is able to sort employees alphabetically ascending or descending and also filter employees by searching for their name.
 
-![Employee Directory Screenshot](/src/images/screenshot.png)
+![Employee Directory Screenshot](\src\images\screenshot.png)
 
 ## Table of Contents
   1. [Technologies](#technologies)
